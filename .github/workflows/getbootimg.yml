@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.9.17/miui_ALIOTH_21.9.17_25b8385d90_11.0.zip
+  ROM_URL: https://xiaomirom.com/download/redmi-k40-mi-11x-poco-f3-alioth-weekly-21.12.6/#china-recovery
   TZ: Asia/Shanghai
 
 jobs:
